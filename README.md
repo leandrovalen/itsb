@@ -1,1 +1,3 @@
-"# itsb" 
+Primera subida de la página del San Bonifacio, sin cambios. Este repositorio se utilizará para hacer un seguimiento constante de la modificación de cada uno de los archivos.
+
+Se solicitará a los desarrolladores que, en lo posible, comenten el código para futuros cambios o en caso de que surja un inconveniente en el funcionamiento del sitio web una vez que sea dado de alta el servidor y se encuentre online.
