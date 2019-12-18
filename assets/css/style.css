@@ -1128,6 +1128,19 @@ blockquote {
   text-align: justify;
 }
 
+.section-texto {
+  line-height: 25px;
+  max-width: 550px;
+  margin: 0 auto 10px;
+  text-align: justify;
+}
+.section-ittem {
+  line-height: 25px;
+  max-width: 550px;
+  margin: 0 auto 5px;
+  text-align: left;
+}
+
 /* PAGES
 ================================================== */
 
