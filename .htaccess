@@ -1,6 +1,4 @@
-RewriteEngine on
 
-Redirect /index.html /inicio/
 
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d

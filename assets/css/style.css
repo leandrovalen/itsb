@@ -1014,6 +1014,7 @@ blockquote {
   display: table;
   position: relative;
   background-size: cover;
+
 }
 
 .hero-max-720 {
@@ -1021,15 +1022,15 @@ blockquote {
 }
 
 .hero-about-us {
- background: url(../img/about-us.jpg) center no-repeat / cover;
+ background: url(../img/entrada.jpg) center no-repeat / cover;
 }
 
 .hero-contact {
- background: url(../img/contact.jpg) center no-repeat / cover;
+ background: url(../img/entrada.jpg) center no-repeat / cover;
 }
 
 .hero-ui-elements {
- background: url(../img/ui-elements.jpg) center no-repeat / cover;
+ background: url(../img/entrada.jpg) center no-repeat / cover;
 }
 
 .background-overlay:before {
